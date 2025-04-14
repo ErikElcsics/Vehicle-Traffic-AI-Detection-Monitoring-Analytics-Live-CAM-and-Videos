@@ -30,7 +30,7 @@ Simply drag and drop or browse your computer for a video file (`.mp4`, `.avi`, o
 #### 🎯 Choose Which Vehicle to Detect - 
 You’re in control — pick which vehicle types you want to track from the sidebar: cars, buses, motorcycles, and trucks.
 
-### 🎯 4. Real-time Detection & Tracking
+#### 🎯 Real-time Detection & Tracking
 - Live object detection with YOLOv8.
 - Bounding boxes drawn on vehicles.
 - Counts shown per frame in the top-left for Cars, Buses, Motorcycles and Trucks.
@@ -109,28 +109,20 @@ Once your video is processed:
 
 ## 📦 Folder Structure
 
-
-vehicle-traffic-monitor/
-├── app.py
-├── README.md
-├── requirements.txt
-└── assets/
-    └── (optional images or videos for samples)
+![image](https://github.com/user-attachments/assets/4ef929cc-ad44-464f-b85a-6e183678a95a)
 
 
 ## 🛠️ Requirements
 
-text
-streamlit
-torch
-torchvision
-ultralytics
-opencv-python
-numpy
-Pandas
-PyTorch
-YOLOv8
-
+- text
+- streamlit
+- torch
+- torchvision
+- ultralytics YOLOv8
+- opencv-python
+- numpy
+- Pandas
+- PyTorch
 
 ## 🚀 How to Run
 
